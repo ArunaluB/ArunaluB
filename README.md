@@ -10,7 +10,7 @@
 
 <br><br>
 
-- :school: I am a `Student` at BSc (Hons) in Information Technology
+- :school: I am a `Student` at BSc (Hons) in Information Technology at SLIIT
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Fullstack technology` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
